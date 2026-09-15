@@ -87,9 +87,9 @@ customer-churn-prediction/
 
 ## 🖼️ Dashboard Preview
 
-![Main Dashboard](dashboard/screenshots/main_dashboard.png)
+![Main Dashboard](dashboard/screenshots/Data visual BI_page-0001.jpg)
 
-![Drill-Through View](dashboard/screenshots/drill_through.png)
+![Drill-Through View](dashboard/screenshots/Data visual BI_page-0002.jpg
 
 ---
 
