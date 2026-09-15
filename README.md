@@ -64,23 +64,24 @@ Customer acquisition costs far exceed retention costs. This project identifies *
   - Conditional-formatted risk table (High/Medium/Low)
 
 ---
-
 ## 📁 Repository Structure
 
+```
 customer-churn-prediction/
 ├── README.md
 ├── data/
-│ ├── telco_churn.csv
-│ └── cleaned_churn_data.csv
+│   ├── telco_churn.csv
+│   └── cleaned_churn_data.csv
 ├── notebooks/
-│ ├── 01_data_cleaning_feature_engineering.ipynb
-│ └── 02_model_training.ipynb
+│   ├── 01_data_cleaning_feature_engineering.ipynb
+│   └── 02_model_training.ipynb
 ├── dashboard/
-│ ├── churn_dashboard.pbix
-│ └── screenshots/
-│ ├── main_dashboard.png
-│ └── drill_through.png
+│   ├── churn_dashboard.pbix
+│   └── screenshots/
+│       ├── main_dashboard.png
+│       └── drill_through.png
 └── requirements.txt
+```
 
 ---
 
